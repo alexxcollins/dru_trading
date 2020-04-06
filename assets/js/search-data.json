@@ -2,11 +2,11 @@
   
     
         "post0": {
-            "title": "",
-            "content": "This is a first blog post. It contains some interactive charts. Please let me know via comments if there is anything else you&#39;d like to see. . Comparisons with various states shown by default. . Tip: Click (Shift+ for multiple) on states in the legend to filter the visualizations below. Click outside the legend to highlight all states. . Data is from John Hopkins. Source is an independent API .",
-            "url": "https://alexxcollins.github.io/dru_trading/2020/04/06/2020-04-04-Covid-spread.html",
-            "relUrl": "/2020/04/06/2020-04-04-Covid-spread.html",
-            "date": " • Apr 6, 2020"
+            "title": "Covid spread",
+            "content": "This is a first blog post. It contains some interactive charts. Please let me know via comments if there is anything else you&#39;d like to see. . Comparisons with various states shown by default. . Tip :Click (Shift+ for multiple) on states in the legend to filter the visualizations below. Click outside the legend to highlight all states. . Data is from John Hopkins. Source is an independent API .",
+            "url": "https://alexxcollins.github.io/dru_trading/covid-19/2020/04/04/Covid-spread.html",
+            "relUrl": "/covid-19/2020/04/04/Covid-spread.html",
+            "date": " • Apr 4, 2020"
         }
         
     
