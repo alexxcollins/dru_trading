@@ -14,8 +14,8 @@ github_repo: "dru_trading"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-#url: "https://alexxcollins.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://drutrading.com"
+url: "https://alexxcollins.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "https://drutrading.com" # my website isn't hosted anywhere yet, so can't use it!
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
@@ -35,8 +35,8 @@ url: "https://drutrading.com"
 #
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
-# baseurl: "/dru_trading" # the subpath of your site, e.g. "/blog".
-baseurl: ""
+baseurl: "/dru_trading" # the subpath of your site, e.g. "/blog".
+# baseurl: "" # my website isn't hosted anywhere yet, so can't use it!
 
 # Github and twitter are optional:
 minima:
