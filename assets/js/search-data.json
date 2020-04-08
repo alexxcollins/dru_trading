@@ -28,8 +28,8 @@
 
   
       ,"page1": {
-          "title": "About Me",
-          "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "title": "Dru Team",
+          "content": "Dru Trading was founded in 2019 by Alex Collins. Alex previously set up the London rates trading desk at Koch Supply and Trading and prior to that ran the active management of the UK government’s foreign exchange reserves at the Bank of England .",
           "url": "https://alexxcollins.github.io/dru_trading/about/",
           "relUrl": "/about/",
           "date": ""
