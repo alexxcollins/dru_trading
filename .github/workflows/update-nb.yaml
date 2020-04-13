@@ -2,9 +2,8 @@ name: Update Notebooks And Refresh Page
 on:
   schedule:
   # I have changed to run every hour just while i test the script
-    - cron:  '0 * * * *'
-  issues:
-    types: [opened]
+    - cron:  '0 3 * * *'
+
 
 jobs:
   update-notebooks:
